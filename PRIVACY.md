@@ -1,0 +1,1 @@
+This app requests read-only access to your top tracks and recent plays. Data is used only to generate visualizations in your session. No information is stored server-side. You can revoke access anytime in your Spotify account settings.
